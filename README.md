@@ -1,16 +1,29 @@
-# my_app
+# Counter App (Flutter)
 
-A new Flutter project.
+A simple customized **Flutter Counter Application** built to practice and strengthen core Flutter development skills.
 
-## Getting Started
+## 🧠 What We Learned
 
-This project is a starting point for a Flutter application.
+- Understanding the difference between **StatelessWidget** and **StatefulWidget**
+- Managing app state using `setState()`
+- Creating and organizing UI using Flutter’s **widget tree**
+- Handling **user interaction** (button presses)
+- Using layout widgets like `Column`, `Row`, and `Padding`
+- Running and debugging apps on an emulator
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Simple and intuitive UI
+- Three main buttons: **Increment**, **Decrement**, and **Reset**
+- Live updating counter value
+- Clean code structure and comments
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+To run this app locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/SuhailMoideen07/Counter-app-flutter-.git
+cd Counter-app-flutter-
