@@ -1,29 +1,40 @@
-# Counter App (Flutter)
+# 🚀 Counter Flutter App – My First Flutter Project
 
-A simple customized **Flutter Counter Application** built to practice and strengthen core Flutter development skills.
+This project is a customized **Counter App** built using Flutter as part of my learning journey. Instead of sticking to the default template, I explored and implemented features that helped me understand the core Flutter concepts in a more practical way.
 
-## 🧠 What We Learned
+---
 
-- Understanding the difference between **StatelessWidget** and **StatefulWidget**
-- Managing app state using `setState()`
-- Creating and organizing UI using Flutter’s **widget tree**
-- Handling **user interaction** (button presses)
-- Using layout widgets like `Column`, `Row`, and `Padding`
-- Running and debugging apps on an emulator
+## ✅ What I Implemented
 
-## 🔧 Features
+- ➕ Increment, ➖ Decrement, and 🔁 Reset functionality
+- 🚫 Logic to prevent negative counts
+- 🎨 Custom UI with padding, rounded corners, and color theming
+- 📝 Used `TextTheme.displayMedium` for scalable, clean text
+- 🧠 Learned basics of Flutter layout, widgets, and state management
 
-- Simple and intuitive UI
-- Three main buttons: **Increment**, **Decrement**, and **Reset**
-- Live updating counter value
-- Clean code structure and comments
+---
 
-## 🚀 Getting Started
+## 💡 Why This Project?
 
-To run this app locally:
+This was my **first ever Flutter project**, and it gave me hands-on experience with:
+- Widget structuring
+- Stateful and Stateless widgets
+- UI customization
+- Dart fundamentals
 
-### 1. Clone the repository
+---
+
+## 📸 Screenshot
+
+<img width="258" height="568" alt="Screenshot 2025-07-25 222356" src="https://github.com/user-attachments/assets/f2b61e7a-1479-4d82-a8e2-e47579df7fd5" />
+
+
+---
+
+## 🚀 How to Run the App
 
 ```bash
-git clone https://github.com/SuhailMoideen07/Counter-app-flutter-.git
-cd Counter-app-flutter-
+git clone https://github.com/SuhailMoideen07/Counter-Flutter-app.git
+cd Counter-Flutter-app
+flutter pub get
+flutter run
